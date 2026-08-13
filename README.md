@@ -7,7 +7,7 @@ green-water palette (lawn green + sky/sun accents) fitting an honest, dependable
 - **Phone (all display + tel/sms + JSON-LD):** (813) 943-2003
 - **Address:** 2424 W State St, Tampa, FL 33609
 - **Rating shown:** 4.9 ★ across 66 Google reviews (≥4.4, shown)
-- **Fonts (assigned):** Salsa (display) + Azeret Mono (body) — both HTTP-200 verified
+- **Fonts (assigned):** Quicksand (display) + Nunito Sans (body) — Tier-1 proven pair, both HTTP-200 verified
 - **Palette:** lawn green (#2f9e44 / #237a37 / #14532a), sky blue accent (#3ba3e3), sun yellow (#ffce33 / #f2b100)
 - **Tier:** 1
 - **Owner:** Joseph "Joe" Bedami (mentioned only naturally + in real reviews — no owner-shrine section)
